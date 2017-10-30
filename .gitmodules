@@ -1,0 +1,6 @@
+[submodule "cmake-test-lfs-child"]
+	path = cmake-test-lfs-child
+	url = https://github.com/smithzvk/cmake-test-lfs-child
+[submodule "cmake-test-child"]
+	path = cmake-test-child
+	url = https://github.com/smithzvk/cmake-test-child
